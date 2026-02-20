@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ghanaGreen: #006B3F;
+  --color-ghanaYellow: #FCD116;
+  --color-darkBg: #121212;
+}
